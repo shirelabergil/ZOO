@@ -9,7 +9,7 @@ import utilities.MessageUtility;
 import diet.Carnivore;
 import diet.Herbivore;
 import diet.Omnivore;
-
+//Mark test
 
 /**
  * This class defines the characteristics and behavior of an animal in general.
